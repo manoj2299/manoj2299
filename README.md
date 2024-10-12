@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manoj2299 - working as a Senior Quality Engineer.
 - 👀 I’m interested in Software testing and Test Automation.
 - 🌱 I’m currently learning Python, Selenium, Robot Framework, Pytest Framework and API Testing.
-- 📫 How to reach me ...Email: mjmanojkumar5560@gmail.com
+- 📫 You can reach me @ mjmanojkumar5560@gmail.com
 
 
 
